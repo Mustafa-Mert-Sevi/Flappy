@@ -5,9 +5,9 @@ Bu proje, klasik Flappy Bird oyununu modern .NET 8 platformunda geliştirmek ama
 ## Kurulum ve Çalıştırma
 
 1. Repoyu klonlayın:  
-   `git clone https://github.com/arukandes/flappyBird.git`
+   `git clone https://github.com/Mustafa-Mert-Sevi/flappy.git`
 2. Proje klasörüne girin:  
-   `cd flappyBird`
+   `cd flappy`
 3. Bağımlılıkları yükleyin:  
    `dotnet restore`
 4. Uygulamayı başlatın:  
@@ -19,11 +19,13 @@ Oyun başladığında, kuşu engellerden geçirmek için boşluk tuşunu kullan�
 
 ## Özellikler
 
-- .NET 8 ile geliştirilmiştir.
+- Zıplayan, Düşen Kuş
 - Basit ve anlaşılır arayüz.
 - Kolayca özelleştirilebilir kod yapısı.
 - Açık kaynak ve topluluğa açık geliştirme.
+- Boru oluşturma
+- Game Over ekranı
+- Get Ready Ekranı
 
-## Katkıda Bulunma
-
-Katkılarınızı bekliyoruz! Pull request gönderebilir veya issue açabilirsiniz.
+## Kullanılan Teknolojiler
+-C#, Windows Forms App
